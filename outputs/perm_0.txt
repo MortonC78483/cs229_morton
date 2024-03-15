@@ -1,0 +1,4 @@
+balanced accuracy, ej 0.7413993018460932
+balanced accuracy, no ej 0.7738293393073454
+n positive, ej 2500
+n positive, no ej 8899
